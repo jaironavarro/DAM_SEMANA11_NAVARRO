@@ -12,7 +12,7 @@ import androidx.navigation.ui.NavigationUI;
 
 import com.example.dam_sem11_proyecto.databinding.ActivityNotasBinding;
 
-public class NotasActivity extends AppCompatActivity implements NotasInteractionListener{
+public class Notas extends AppCompatActivity implements NotasInteractionListener{
 
     private ActivityNotasBinding binding;
 

@@ -6,7 +6,7 @@ public class Nota {
     private boolean favorita;
     private int color;
 
-    public Nota(){
+    public Nota() {
     }
 
     public Nota(String titulo, String contenido, boolean favorita, int color) {
